@@ -1,1 +1,1 @@
-MONGO = 'mongodb+srv://muaziqbal:12345@mern-blog.67nzyjo.mongodb.net/?retryWrites=true&w=majority&appName=mern-blog'
+MONGO = ''
